@@ -1,6 +1,7 @@
-# Automatic-Speech-Recognition
-Phonetic Classification (TIMIT database)  
+# Automatic-Speech-Recognition #
 
-Using librosa Python package to load wav files and sample rate
+project title: 'Deep Cost-sensitive Cross-entropy for Gender Generalization in TIMIT Phoneme Classification'
 
-Using mfcc as feature extracture
+* Phonetic Classification (TIMIT database)  
+* Using librosa Python package to load wav files and sample rate
+* Using mfcc as feature extracture
